@@ -10,8 +10,7 @@
 | 20/0018167  |  Gabriel Mariano da Silva |
 
 ## Sobre
-
-Em andamento.
+Este projeto teve como foco a resolução de problemas de Algoritmos Ambiciosos (Greedy Algorithms) nas plataformas Codeforces e BeeCrowd. Cada membro da equipe contribuiu com a resolução de três questões, totalizando seis exercícios no total.
 
 ## Screenshots
 
