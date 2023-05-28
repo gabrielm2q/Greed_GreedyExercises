@@ -7,5 +7,7 @@
 
 ### Codeforces
  - 719B Anatoly and Cockroaches
- - 101A Homework
  - 364D Huffman Code
+
+### CSES
+ - Movie Festival II - Interval Scheduling
