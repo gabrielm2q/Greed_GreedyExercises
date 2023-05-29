@@ -1,13 +1,11 @@
-#include <algorithm>
-#include <iostream>
-#include <set>
-#include <vector>
+#include <bits/stdc++.h>
 
 using namespace std;
 
 int main() {
     int n, k;
     cin >> n >> k;
+
     vector<pair<int, int>> v(n);
 
     for (int i = 0; i < n; i++) 
@@ -37,6 +35,7 @@ int main() {
         end_times.erase(--it);
         // membro agora termina de assistir no horário v[i].first
         end_times.insert(v[i].first);
+
         ++maxMovies;
     }
 

@@ -11,3 +11,4 @@
 
 ### CSES
  - Movie Festival II - Interval Scheduling (OK)
+ - Stick Divisions
