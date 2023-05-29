@@ -15,6 +15,8 @@ Este projeto teve como foco a resolução de problemas de Algoritmos Ambiciosos 
 ## Screenshots
 
 Em andamento.
+![Movie_Interval](imagens/movie_interval.png!)
+
 
 ## Instalação
 
