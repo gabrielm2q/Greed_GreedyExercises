@@ -3,6 +3,10 @@
 using namespace std;
 using ii = pair<ll, ll>;
 
+// Exercicio 1661 do BeeCrowd: Wine Trading in Gergovia
+// Link do Problema: https://www.beecrowd.com.br/judge/en/problems/view/1661
+
+
 // Funcao para calculo da quantidade de trabalho acumulada
 ll increaseWorkCount(ll workCount, ll sellIndex, ll buyIndex, ll quantity) {
     return (
