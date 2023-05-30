@@ -39,7 +39,7 @@ int main() {
         ++maxMovies;
     }
 
-    cout << maxMovies;
+    cout << maxMovies << endl;
 
     return 0;
 }
