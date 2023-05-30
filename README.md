@@ -13,6 +13,10 @@
 
 Este projeto teve como foco a resolução de problemas de **Algoritmos Ambiciosos** (Greedy Algorithms) nas plataformas *LeetCode*, *BeeCrowd* e *CSES*.
 
+## Apresentação
+
+Caso queira ver a apresentação do projeto desenvolvido por parte dos integrantes da equipe, basta acessar o [**LINK DO YOUTUBE**](www.youtube.com) ou então baixar o vídeo completo no [**LINK DO VÍDEO**](www.google.com).
+
 ## Screenshots
 
 ## Movie Festival II
