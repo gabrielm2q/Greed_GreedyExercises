@@ -41,11 +41,3 @@ Este projeto teve como foco a resolução de problemas de Algoritmos Ambiciosos 
 
 ![2115 - Production in Ekaterinburg - BeeCrowd](./assets/2115_ProductionEkaterinburg.png)
 
-
-## Instalação
-
-**Linguagem**: *C++* (C++17)<br>
-
-## Outros
-
-Em andamento.
