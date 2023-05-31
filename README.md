@@ -21,9 +21,17 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ## Movie Festival II
 
+[**Link do Problema**](https://cses.fi/problemset/task/1632)
+
+[**Resposta Comentada**](./Exercises/CSES_MovieFestivalII/commented/cses_moviefestival.md)
+
 ![Movie Festival II - CSES](./assets/CSES_MovieIntervalII.png)
 
 ## Stick Divisions
+
+[**Link do Problema**](https://cses.fi/problemset/task/1161/)
+
+[**Resposta Comentada**](./Exercises/CSES_StickDivisions/commented/cses_stickdivisions.md)
 
 ![Stick Divisions - CSES](./assets/CSES_StickDivisions.png)
 
@@ -60,6 +68,10 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 ![2115 - Production in Ekaterinburg - BeeCrowd](./assets/2115_ProductionEkaterinburg.png)
 
 ## Tasks & Deadlines
+
+[**Link do Problema**](https://cses.fi/problemset/task/1630)
+
+[**Resposta Comentada**](./Exercises/CSES_TasksandDeadLines/commented/cses_tasksanddeadlines.md)
 
 ![Tasks & Deadlines- CSES](./assets/CSES_Tasks&Deadlines.png)
 
