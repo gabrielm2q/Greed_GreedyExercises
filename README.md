@@ -59,6 +59,10 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![2115 - Production in Ekaterinburg - BeeCrowd](./assets/2115_ProductionEkaterinburg.png)
 
+## Tasks & Deadlines
+
+![Tasks & Deadlines- CSES](./assets/CSES_Tasks&Deadlines.png)
+
 ## Tecnologias
 
 **Linguagem**: *C++* (C++17)<br>

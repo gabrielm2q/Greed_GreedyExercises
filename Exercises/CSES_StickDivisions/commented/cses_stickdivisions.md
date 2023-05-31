@@ -7,6 +7,7 @@ int main() {
 
     cin >> x >> n;
 
+    // Criar um vetor que armazena os tamanhos dos cubos
     vector<int> heap;
 
     for (int i = 0; i < n; i++) {
@@ -14,10 +15,12 @@ int main() {
         heap.push_back(a);
     }
 
-    long long result = 0;
+    long long result = 0; // Variável para armazenar o resultado final (total do tamanho dos cubos combinados)
 
+    // Construir a heap a partir do vetor
     make_heap(heap.begin(), heap.end(), greater<int>());
 
+    // Combinação dos cubos
     while (heap.size() > 1) {
         a = heap.front();
         pop_heap(heap.begin(), heap.end(), greater<int>());
