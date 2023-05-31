@@ -1,3 +1,10 @@
+# Exercício Stick Divisions do CSES
+
+[**Link do Problema**](https://cses.fi/problemset/task/1161/)
+
+## Código comentado
+
+```
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -42,3 +49,4 @@ int main() {
     return 0;
 
 }
+```
